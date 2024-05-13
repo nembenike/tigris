@@ -45,4 +45,6 @@ nav, footer {
 header {
   height: 350px;
   background-image: url('../img/tiger_bg.jpg');
+  background-position: center;
+  background-size: cover;
 }
