@@ -17,10 +17,13 @@ img{
 
 .felkover{    
     color: rgb(16, 37, 82);
+    font-weight: bold;
 }
 
 .dolt{
     color: rgb(16, 37, 82);
+    font-style: italic;
+    font-family: Courier New;
 }
 
 .jobbra a, #link a{
@@ -47,4 +50,34 @@ header {
   background-image: url('../img/tiger_bg.jpg');
   background-position: center;
   background-size: cover;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-variant: small-caps;
+  letter-spacing: 1px;
+  line-height: 70px;
+}
+
+p {
+  text-align: justify;
+  text-indent: 20px;
+}
+
+main ul {
+  list-style-image: url("../img/tiger.png")
+}
+
+#taplalek {
+  background-color: rgba(255, 255, 255, 0.6);
+  width: 80%;
+  font-size: 120%;
+  border: 5px double #5c3829;
+  padding: 10px 20px;
+  margin: 15px auto;
 }
