@@ -81,3 +81,12 @@ main ul {
   padding: 10px 20px;
   margin: 15px auto;
 }
+
+.kep {
+  width: 60%;
+  margin-bottom: 15px;
+}
+
+article img {
+  border-radius: 30px;
+}
