@@ -30,10 +30,11 @@ img{
     color: rgb(16, 37, 82);
     font-variant: small-caps;    
     padding: 5px;
+    text-decoration: none;
 }
 
 .jobbra a:hover, #link a:hover{
-    background-color: green;
+    background-color: white;
 }
 
 .jobbra{
